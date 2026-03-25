@@ -1,0 +1,15 @@
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\bin\Debug\net10.0\tp-dates.exe
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\bin\Debug\net10.0\tp-dates.deps.json
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\bin\Debug\net10.0\tp-dates.runtimeconfig.json
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\bin\Debug\net10.0\tp-dates.dll
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\bin\Debug\net10.0\tp-dates.pdb
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.AssemblyInfoInputs.cache
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.AssemblyInfo.cs
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.csproj.CoreCompileInputs.cache
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.sourcelink.json
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.dll
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\refint\tp-dates.dll
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.pdb
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\tp-dates.genruntimeconfig.cache
+C:\Users\tcrepin\Documents\mes project\project-c#\tp-dates\obj\Debug\net10.0\ref\tp-dates.dll

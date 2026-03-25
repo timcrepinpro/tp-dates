@@ -1,9 +1,15 @@
 ﻿namespace tp_dates;
+using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        
+        DateTime time = DateTime.Now;
+        Console.WriteLine(time);
+        Console.WriteLine(time.ToString("dd/MM/yyyy"));
+        
     }
+
 }
