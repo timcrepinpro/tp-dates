@@ -63,6 +63,10 @@ class Program
 
             }
         }
-
+        DateTime partie9v1 = new DateTime(2025, 1, 1);
+        DateTime partie9v2 =  partie9v1.AddDays(5);
+        Console.WriteLine("la date de debut et ",partie9v1.ToString());
+        Console.WriteLine("la date de fin et ",partie9v2.ToString());
+        
     }
 }
