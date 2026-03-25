@@ -26,6 +26,29 @@ class Program
         Console.WriteLine(partie4v1.ToString("dd/MM/yyyy"));
         DateTime partie4v2 =  partie2.AddMonths(-1);
         Console.WriteLine(partie4v2.ToString("dd/MM/yyyy"));
-        
+        Console.WriteLine("saisir une date");
+        string date = Console.ReadLine();
+
+        if (DateTime.TryParse("25/03/2026", out DateTime d))
+        {
+        Console.WriteLine(d);
+            if(time <d)
+            {
+                Console.WriteLine("la date nest pas passer");
+            }
+            else if(time >d)
+            {
+                Console.WriteLine("la date est passer");
+            }
+            else if(time.CompareTo(d) == 0)
+            {
+                Console.WriteLine("la date est aujourdui");
+            }
+        }
+        else
+        {
+        Console.WriteLine("Date invalide");
+        }       
+
     }
 }
