@@ -70,3 +70,19 @@ class Program
         
     }
 }
+/*
+Pourquoi ne faut-il pas utiliser directement Console.WriteLine(date) pour afficher une date ?
+pour que la date safiche sous le bon format
+
+
+Quelle est la différence entre Parse et TryParse ?
+try parse ne cause pas une erreur , mais peut etre utiliser comme condition
+
+Comment retirer des jours à une date ?
+AddDays(-5); en utilisant un .adddays() tout en metant le nombre de jour au negatif
+
+À quoi sert TimeSpan ?
+time span represnete une duree
+
+car elle return juste le resultat du calcul
+*/
