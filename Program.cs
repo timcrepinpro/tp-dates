@@ -22,5 +22,10 @@ class Program
         DateTime partie3v2 =  partie2.AddMonths(2);
         Console.WriteLine(partie3v2.ToString("dd/MM/yyyy"));
         DateTime partie3v3 =  partie2.AddYears(1);
+        DateTime partie4v1 =  partie2.AddDays(-5);
+        Console.WriteLine(partie4v1.ToString("dd/MM/yyyy"));
+        DateTime partie4v2 =  partie2.AddMonths(-1);
+        Console.WriteLine(partie4v2.ToString("dd/MM/yyyy"));
+        
     }
 }
