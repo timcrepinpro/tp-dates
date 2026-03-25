@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp-dates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be894e4beb4bd85a3331daf1199b06891ca3d03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb88cdb33b0ea5220c602e2ab2da53e04b320501")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp-dates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp-dates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

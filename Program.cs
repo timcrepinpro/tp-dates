@@ -48,7 +48,21 @@ class Program
         else
         {
         Console.WriteLine("Date invalide");
-        }       
+        }    
+        Console.WriteLine("saisir 2 dates");
+        string d1 = Console.ReadLine();   
+        string d2 = Console.ReadLine();
+        if (DateTime.TryParse(d1, out DateTime date1))
+        {
+            if (DateTime.TryParse(d2, out DateTime date2))
+            {
+       
+                
+                Console.WriteLine("les 2 dates entrer on ce temps la de difference :"+(date2-date1).Days);
+            
+
+            }
+        }
 
     }
 }
