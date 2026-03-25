@@ -3,6 +3,7 @@ using System;
 
 class Program
 {
+
     static void Main(string[] args)
     {
         
@@ -16,6 +17,10 @@ class Program
         Console.WriteLine(partie2.ToLongDateString());
         Console.WriteLine(partie2.ToString("dd/MM/yyyy"));
         Console.WriteLine(partie2.ToString("yyyy-MM-dd"));
+        DateTime partie3v1 =  partie2.AddDays(10);
+        Console.WriteLine(partie3v1.ToString("dd/MM/yyyy"));
+        DateTime partie3v2 =  partie2.AddMonths(2);
+        Console.WriteLine(partie3v2.ToString("dd/MM/yyyy"));
+        DateTime partie3v3 =  partie2.AddYears(1);
     }
-
 }
